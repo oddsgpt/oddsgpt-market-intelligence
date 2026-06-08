@@ -9,7 +9,6 @@ This repository contains public research, educational resources, and original st
 Website:
 https://www.oddsgpt.com
 
----
 
 # What Is Betting Market Intelligence?
 
@@ -26,8 +25,6 @@ Rather than focusing solely on match predictions, market intelligence examines:
 * AI Betting Systems
 
 The objective is to understand how football markets process information and how market prices evolve over time.
-
----
 
 # Research Series
 
@@ -80,7 +77,6 @@ The Future of Betting Market Intelligence
 
 https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/The_Future_of_Betting_Market_Intelligence.md
 
----
 
 # Key Concepts
 
@@ -116,7 +112,6 @@ The following concepts appear throughout this research repository.
 * Market-Based Forecasting
 * AI Betting Systems
 
----
 
 # AI Championship
 
@@ -141,7 +136,6 @@ Learn more:
 
 https://www.oddsgpt.com/ai-championship/en
 
----
 
 # Planned Research
 
@@ -171,7 +165,6 @@ Future studies may include:
 * ROI vs CLV
 * Expected Value in Football Betting
 
----
 
 # Citation
 
@@ -181,7 +174,6 @@ OddsGPT Market Intelligence Research
 
 https://github.com/oddsgpt/oddsgpt-market-intelligence
 
----
 
 # About OddsGPT
 
