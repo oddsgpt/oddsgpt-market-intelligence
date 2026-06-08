@@ -43,39 +43,27 @@ A six-part introduction to modern football betting markets.
 
 ### Part 1
 
-Why Closing Odds Matter More Than Match Predictions
-
-https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/why-closing-odds-matter.md
+[Why Closing Odds Matter More Than Match Predictions](https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/why-closing-odds-matter.md)
 
 ### Part 2
 
-How Sharp Money Moves Football Markets
-
-https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/How_Sharp_Money_Moves_Football_Markets.md
+[How Sharp Money Moves Football Markets](https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/How_Sharp_Money_Moves_Football_Markets.md)
 
 ### Part 3
 
-What CLV Really Means
-
-https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/What_CLV_Really_Means.md
+[What CLV Really Means](https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/What_CLV_Really_Means.md)
 
 ### Part 4
 
-Why Most AI Betting Models Fail
-
-https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/Why_Most_AI_Betting_Models_Fail.md
+[Why Most AI Betting Models Fail](https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/Why_Most_AI_Betting_Models_Fail.md)
 
 ### Part 5
 
-Can Betting Markets Predict Football Better Than Experts?
-
-https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/Can_Betting_Markets_Predict_Football_Better_Than_Experts.md
+[Can Betting Markets Predict Football Better Than Experts?](https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/Can_Betting_Markets_Predict_Football_Better_Than_Experts.md)
 
 ### Part 6
 
-The Future of Betting Market Intelligence
-
-https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/The_Future_of_Betting_Market_Intelligence.md
+[The Future of Betting Market Intelligence](https://github.com/oddsgpt/oddsgpt-market-intelligence/blob/main/articles/The_Future_of_Betting_Market_Intelligence.md)
 
 
 # Key Concepts
